@@ -1,0 +1,17 @@
+body {
+  background-color: #222; /* Black licorice */
+  color: #fff; /* White text */
+}
+
+.story-title, .product-title {
+  color: #B71C1C; /* Ruby red */
+}
+
+.cta-button {
+  background-color: #B71C1C;
+  color: #fff;
+}
+
+.highlight {
+  color: #FFD700; /* Gold accent */
+}
